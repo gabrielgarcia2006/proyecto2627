@@ -1,4 +1,4 @@
-site_name: Proyecto Interdisciplinar 2026/27
+site_name: Proyecto Interdisciplinar 26/27
 nav:
   - PRACTICA 01 - CONFIGURACIÓN E INSTALACIÓN DEL ENTORNO: practica01.md
 
@@ -31,3 +31,4 @@ extra_javascript:
 
 extra_css:
   - css/estilo.css
+  

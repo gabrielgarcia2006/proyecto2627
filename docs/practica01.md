@@ -18,7 +18,7 @@ He comprobado que GitHub CLI está instalado y que tengo la sesión iniciada cor
 
 ## Herd y PHP 8.4
 
-He comprobado que Laravel Herd está instalado y que estoy utilizando PHP 8.4.
+He comprobado que Laravel Herd está instalado y que estoy utilizando PHP 8.4
 
 /** En la captura se puede ver la versión de Herd y la versión de PHP. */
 
